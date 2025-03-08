@@ -398,3 +398,19 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# ClangFormat
+*.clang-format
+
+# HBK Online Judge
+hbk.json
+
+# Vcx proj
+*.vcxproj
+*.vcxproj.filters
+
+# ZIP file
+*.zip
+
+# sln file
+*.sln
